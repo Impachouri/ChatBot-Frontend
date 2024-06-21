@@ -1,8 +1,31 @@
-# React + Vite
+# Project README
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Setup
 
-Currently, two official plugins are available:
+Follow these steps to set up the project.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **Install Dependencies:**
+
+   ```js
+   npm install
+   ```
+
+2. **Create env file:**
+
+   ```js
+   VITE_SERVER_URL= http://localhost:8000
+   ```
+
+3. **Run the Server:**
+   ```py
+   npm run dev
+   ```
+
+### Example Screenshots:
+
+- ![Screenshot 1](screenshots/1.png)
+- ![Screenshot 2](screenshots/2.png)
+
+# Backend Repository Link:
+
+`https://github.com/Impachouri/pdfbot-backend` .
